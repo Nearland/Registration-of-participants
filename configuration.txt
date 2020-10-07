@@ -1,0 +1,4 @@
+backup_on 1
+
+backup_schedule 1
+backup_location A:\Photo on desctop//
